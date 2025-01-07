@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="calculator_accent_color">#ff57834e</color>
+    <color name="calculator_error_color">#ffff0000</color>
+    <color name="calculator_primary_color">#ff7aa7b6</color>
+    <color name="calculator_primary_dark_color">#ff57834e</color>
+    <color name="calculator_secondary_text_color">#ff9e3639</color>
+    <color name="calculator_statusbar_color">#ff57834e</color>
+    <color name="calculator_tertiary_text_color">#ff9e3639</color>
+    <color name="dialog_button_text_color">#ff9e3639</color>
+    <color name="dialog_color_background">#ffcbecff</color>
+    <color name="dialog_message_text_color">#ffc2342e</color>
+    <color name="dialog_title_text_color">#ff9b664d</color>
+    <color name="display_background_color">#ffcbecff</color>
+    <color name="display_formula_text_color">#ffc2342e</color>
+    <color name="display_result_text_color">#be72b3ca</color>
+    <color name="empty_history_color">#ffcbecff</color>
+    <color name="empty_history_icon_color">#fff3706b</color>
+    <color name="history_item_date_text_color">#ffc2342e</color>
+    <color name="history_toolbar_background_color">#ff7aa7b6</color>
+    <color name="history_toolbar_control_color">#ff9b664d</color>
+    <color name="history_toolbar_title_color">#ff9b664d</color>
+    <color name="pad_advanced_background_color">#ffcbecff</color>
+    <color name="pad_button_advanced_ripple_color">#d9bcc0a6</color>
+    <color name="pad_button_advanced_text_color">#ff9b664d</color>
+    <color name="pad_button_ripple_color">#d9bcc0a6</color>
+    <color name="pad_button_text_color">#ff9b664d</color>
+    <color name="pad_numeric_background_color">#ff7aa7b6</color>
+    <color name="pad_operator_background_color">#fff58581</color>
+    <color name="popup_menu_background_color">#ffcbecff</color>
+    <color name="popup_menu_text_color">#ff72b3ca</color>
+</resources>
